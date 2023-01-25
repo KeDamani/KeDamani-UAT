@@ -1,0 +1,27 @@
+body
+{
+    background-color:rgba(89, 0, 255, 0.568);
+    background-image: radial-gradient(rgb(148, 6, 148), rgb(156, 4, 37))
+
+}
+h1
+{
+    color: rgb(65, 131, 230);
+    text-align: center;
+}
+p
+{
+    font-size: 35px;
+    font-family:monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+.buttonJC
+{
+    background-color: rgba(148, 8, 167, 0.74);
+    border-color: rgb(50, 76, 131);
+    border-style: dotted;
+    height: 88px;
+    width: 88px;
+    border-radius: 20px;
+}
